@@ -41,7 +41,7 @@ Avançando na na compreensão dos Layouts  e Position aplicados pelo CSS e estru
 
 
 
-- [Visite o projeto online](https://kelvingomes13.github.io/PROJETO-PORTAL-DE-NOTICIAS/)
+- [Visite o projeto online](https://erickncardoso.github.io/fullstack-portal-de-noticias/))
 
 ## 🔖 Layout
 
