@@ -13,7 +13,7 @@ Acompanhamento pratico da trilha Full-Stack, promovido pela Rocketseat para ensi
 </p>
 
 <p align="center">
-  <img alt="License" src="file:///Users/erickcardoso/Downloads/projetoportalnoticias.png&color=49AA26&labelColor=000000">
+  <img alt="License" src="./file:///Users/erickcardoso/Downloads/projetoportalnoticias.png&color=49AA26&labelColor=000000">
 </p>
 
 <br>
